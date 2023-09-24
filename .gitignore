@@ -1,0 +1,8 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_env/
+media/
+Readme.md
+client_secrets.json
